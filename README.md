@@ -35,7 +35,7 @@ experience building **backend systems and ML-based web applications**.
 ### 🚌 University Bus Complaint Management System
 - Developed a Flask + MongoDB based complaint management system 
 - Implemented JWT authentication, dashboards, and real-time complaint tracking   
-🔗 [GitHub Repository](https://github.com/VirajLokesh/bus-complaint-system) 
+🔗 [GitHub Repository](https://github.com/VirajLokesh/bus-complaint-system)  
 🌐 [Live Demo](https://bus-complaint-system.onrender.com/) 
 ---
 
