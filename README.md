@@ -11,7 +11,7 @@ experience building **backend systems and ML-based web applications**.
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** Java, Python  
+- **Programming:** Java
 - **Backend & Databases:** JDBC, MySQL, MongoDB  
 - **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Searching, Sorting  
 - **Web Technologies:** HTML, CSS  
